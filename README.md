@@ -24,6 +24,8 @@ if you set up phone push notifications.
 
 ---
 
+Running into an error during setup? Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md) — it covers every issue hit while building this, with the fix for each.
+
 ## One-time setup (about 10–15 minutes)
 
 You need two things: **Gmail API access** and a **Claude API key**.
