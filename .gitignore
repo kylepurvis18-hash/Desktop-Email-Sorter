@@ -1,0 +1,14 @@
+# Secrets and personal data -- never commit these
+.env
+credentials.json
+token.json
+processed_state.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
